@@ -1,0 +1,24 @@
+body {
+  color: #e0e0e0;
+  background-color: #212121;
+}
+
+body a:not(.highlighted-words) {
+  color: #e0e0e0;
+}
+
+div a:hover {
+  color: #2196f3;
+}
+
+.promotion-bar a,
+.promotion-bar a:visited,
+.promotion-bar a:active,
+.promotion-bar a:hover {
+  color: #757575;
+}
+
+.bottomBorder {
+  border: 0px;
+  border-bottom: 1px solid #424242;
+}
